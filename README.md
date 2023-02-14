@@ -2,6 +2,14 @@
 ### :dragon_face:
 🌱 I’m currently learning ...
 
+What the project does
+Why the project is useful
+How users can get started with the project
+Where users can get help with your project
+Who maintains and contributes to the project
+
+
+
 <!--
 **cyrixtrezentos/cyrixtrezentos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
